@@ -1,0 +1,1 @@
+/home/mio-dokuhaki/.asdf/completions/asdf.fish
